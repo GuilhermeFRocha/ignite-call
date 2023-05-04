@@ -1,3 +1,1 @@
-export default function Home() {
-  return <main>ola</main>
-}
+export { default } from "./home";
